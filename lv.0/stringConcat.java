@@ -1,3 +1,6 @@
+/**
+ * 문자열 붙여서 출력하기
+ */
 import java.util.Scanner;
 
 public class stringConcat {

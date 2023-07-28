@@ -1,3 +1,6 @@
+/**
+ * 문자열 반복해서 출력하기
+ */
 import java.util.Scanner;
 
 public class printloop {

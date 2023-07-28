@@ -1,3 +1,6 @@
+/**
+ * 덧셈식 출력하기
+ */
 import java.util.Scanner;
 
 public class printPlus {

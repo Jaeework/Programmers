@@ -1,3 +1,6 @@
+/**
+ * a와 b 출력하기
+ */
 import java.util.Scanner;
 
 public class printab {
