@@ -1,7 +1,7 @@
 /**
  * 양꼬치
  */
-public class lambSkewers {
+public class LambSkewers {
 
     public static void main(String[] args) {
         int result = solution(64, 6);

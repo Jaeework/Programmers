@@ -1,7 +1,7 @@
 /**
  * 등차수열의 특정한 항만 더하기
  */
-public class arithmeticSeq {
+public class ArithmeticSeq {
 
     public static void main(String[] args) {
         boolean[] included = {true, false, false, true, true};

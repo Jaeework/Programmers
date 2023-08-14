@@ -1,7 +1,7 @@
 /**
  * 나이 출력
  */
-public class prnAge {
+public class PrnAge {
     
     public static void main(String[] args) {
         int result = solution(40);

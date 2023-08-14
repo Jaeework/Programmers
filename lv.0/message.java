@@ -1,7 +1,7 @@
 /**
  * 편지
  */
-public class message {
+public class Message {
     
     public static void main(String[] args) {
         String message = "happy birthday!";

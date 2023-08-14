@@ -1,7 +1,7 @@
 /**
  * 몫 구하기
  */
-public class quotient {
+public class Quotient {
 
     public static void main(String[] args) {
         int result = solution(10, 5);

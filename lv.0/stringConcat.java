@@ -3,7 +3,7 @@
  */
 import java.util.Scanner;
 
-public class stringConcat {
+public class StringConcat {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

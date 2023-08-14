@@ -1,7 +1,7 @@
 /**
  * n의 배수
  */
-public class multipleNum {
+public class MultipleNum {
     
     public static void main(String[] args) {
         int result = solution(98, 2);

@@ -1,7 +1,7 @@
 /**
  * 문자열 곱하기
  */
-public class multipleString {
+public class MultipleString {
 
     public static void main(String[] args) {
         String answer = solution("string", 3);

@@ -1,7 +1,7 @@
 /**
  * 나머지 구하기
  */
-public class remainder02 {
+public class Remainder02 {
     
     public static void main(String[] args) {
         int result = solution(3, 2);

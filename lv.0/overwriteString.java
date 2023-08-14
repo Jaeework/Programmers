@@ -1,10 +1,10 @@
 /**
  * 문자열 겹쳐쓰기
  */
-public class overwriteString {
+public class OverwriteString {
 
     public static void main(String[] args) {
-        overwriteString os = new overwriteString();
+        OverwriteString os = new OverwriteString();
         String answer = os.solution("He11oWor1d","lloWorl", 2);
 
         System.out.println(answer);

@@ -1,10 +1,10 @@
 /**
  * 문자 리스트를 문자열로 변환하기
  */
-public class arrToString {
+public class ArrToString {
 
     public static void main(String[] args) {
-        arrToString as = new arrToString();
+        ArrToString as = new ArrToString();
         
         String[] arr = {"a", "b", "c"};
         

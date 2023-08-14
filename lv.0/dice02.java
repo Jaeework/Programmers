@@ -5,7 +5,7 @@ import java.util.Set;
 /**
  * 주사위 게임 2
  */
-public class dice02 {
+public class Dice02 {
 
     public static void main(String[] args) {
         int result = solution(2, 6, 1);

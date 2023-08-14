@@ -1,7 +1,7 @@
 /**
  * 각도기
  */
-public class protractor {
+public class Protractor {
 
     public static void main(String[] args) {
         int result = solution(70);

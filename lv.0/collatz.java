@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * 콜라츠 수열
  */
-public class collatz {
+public class Collatz {
     
     public static void main(String[] args) {
         int[] result = solution(10);

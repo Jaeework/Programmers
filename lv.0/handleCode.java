@@ -1,7 +1,7 @@
 /**
  * 코드 처리하기
  */
-public class handleCode {
+public class HandleCode {
     
     public static void main(String[] args) {
 

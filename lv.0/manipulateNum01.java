@@ -1,7 +1,7 @@
 /**
  * 수 조작하기 1
  */
-public class manipulateNum01 {
+public class ManipulateNum01 {
     
     public static void main(String[] args) {
 

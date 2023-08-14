@@ -1,7 +1,7 @@
 /**
  * 두 수의 나눗셈
  */
-public class division {
+public class Division {
     
     public static void main(String[] args) {
         int result = solution(7, 3);

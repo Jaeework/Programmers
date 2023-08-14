@@ -1,7 +1,7 @@
 /**
  * 간단한 논리 연산
  */
-public class booleanOp {
+public class BooleanOp {
     
     public static void main(String[] args) {
         boolean result = solution(true, false, false, false);

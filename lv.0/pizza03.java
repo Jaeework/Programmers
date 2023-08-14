@@ -1,7 +1,7 @@
 /**
  * 피자 나눠 먹기 (3)
  */
-public class pizza03 {
+public class Pizza03 {
     
     public static void main(String[] args) {
         int result = solution(4, 12);

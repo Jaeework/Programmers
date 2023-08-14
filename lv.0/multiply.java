@@ -1,7 +1,7 @@
 /**
  * 두 수의 곱
  */
-public class multiply {
+public class Multiply {
     
     public static void main(String[] args) {
         int result = solution(3, 4);

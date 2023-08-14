@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * 배열 두배 만들기
  */
-public class doubleArr {
+public class DoubleArr {
 
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4 ,5};

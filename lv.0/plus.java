@@ -1,7 +1,7 @@
 /**
  * 두 수의 합
  */
-public class plus {
+public class Plus {
     
     public static void main(String[] args) {
         int result = solution(2, 3);

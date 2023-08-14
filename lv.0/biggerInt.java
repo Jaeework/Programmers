@@ -1,7 +1,7 @@
 /**
  * 더 크게 합치기
  */
-public class biggerInt {
+public class BiggerInt {
     
     public static void main(String[] args) {
         int result = solution(89, 8);

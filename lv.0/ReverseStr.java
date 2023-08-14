@@ -1,7 +1,7 @@
 /**
  * 문자열 여러 번 뒤집기
  */
-public class reverseString {
+public class ReverseStr {
     
     public static void main(String[] args) {
         int[][] queries = {{2, 3}, {0, 7}, {5, 9}, {6, 10}};

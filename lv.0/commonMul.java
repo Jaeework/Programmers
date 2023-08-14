@@ -1,7 +1,7 @@
 /**
  * 공배수
  */
-public class commonMul {
+public class CommonMul {
     
     public static void main(String[] args) {
         int result = solution(60, 2, 3);

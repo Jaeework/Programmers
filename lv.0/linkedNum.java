@@ -1,7 +1,7 @@
 /**
  * 이어 붙인 수
  */
-public class linkedNum {
+public class LinkedNum {
     
     public static void main(String[] args) {
         int[] num_list = new int[]{3, 4, 5, 2, 1};

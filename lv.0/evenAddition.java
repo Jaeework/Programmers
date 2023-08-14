@@ -1,7 +1,7 @@
 /**
  * 짝수의 합
  */
-public class evenAddition {
+public class EvenAddition {
     
     public static void main(String[] args) {
         int result = solution(10);

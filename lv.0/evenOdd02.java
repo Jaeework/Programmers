@@ -1,7 +1,7 @@
 /**
  * 홀짝에 따라 다른 값 반환하기
  */
-public class evenOdd02 {
+public class EvenOdd02 {
 
     public static void main(String[] args) {
         int result = solution(10);

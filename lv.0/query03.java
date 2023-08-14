@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * 수열과 구간 쿼리 3
  */
-public class query03 {
+public class Query03 {
 
     public static void main(String[] args) {
         int[] arr = {0, 1, 2, 3, 4};

@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * 짝수 홀수 개수
  */
-public class evenOdd03 {
+public class EvenOdd03 {
 
     public static void main(String[] args) {
         int[] num_list = {1, 2, 3, 4, 5};

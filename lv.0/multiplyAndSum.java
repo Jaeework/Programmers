@@ -1,7 +1,7 @@
 /**
  * 원소들의 곱과 합
  */
-public class multiplyAndSum {
+public class MultiplyAndSum {
 
     public static void main(String[] args) {
         int[] num_list = new int[]{3, 4, 5, 2, 1};

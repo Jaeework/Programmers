@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * 카운트 업
  */
-public class countUp {
+public class CountUp {
     
     public static void main(String[] args) {
         int[] result = solution(3, 10);

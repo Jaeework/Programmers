@@ -1,7 +1,7 @@
 /**
  * 두 수의 차
  */
-public class minus {
+public class Minus {
     
     public static void main(String[] args) {
         int result = solution(2, 3);

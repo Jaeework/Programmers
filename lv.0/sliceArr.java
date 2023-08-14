@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * 배열 자르기
  */
-public class sliceArr {
+public class SliceArr {
 
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4, 5};

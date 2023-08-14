@@ -1,7 +1,7 @@
 /**
  * 두 수의 연산값 비교하기
  */
-public class compareNums {
+public class CompareNums {
 
     public static void main(String[] args) {
         int result = solution(91, 2);

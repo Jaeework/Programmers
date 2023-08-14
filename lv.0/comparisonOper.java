@@ -1,7 +1,7 @@
 /**
  * 조건 문자열
  */
-public class comparisonOper {
+public class ComparisonOper {
     
     public static void main(String[] args) {
         int result = solution(">", "!", 41, 78);

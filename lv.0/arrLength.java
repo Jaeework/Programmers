@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * 배열 원소의 길이
  */
-public class arrLength {
+public class ArrLength {
     
     public static void main(String[] args) {
         String[] strlist = {"We", "are", "the", "world!"};

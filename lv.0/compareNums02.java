@@ -1,7 +1,7 @@
 /**
  * 숫자 비교하기
  */
-public class compareNums02 {
+public class CompareNums02 {
     
     public static void main(String[] args) {
         int result = solution(2, 3);

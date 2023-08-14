@@ -1,7 +1,7 @@
 /**
  * 9로 나눈 나머지
  */
-public class remainder {
+public class Remainder {
     
     public static void main(String[] args) {
         int result = solution("78720646226947352489");

@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * 배열 뒤집기
  */
-public class reverseArray {
+public class ReverseArray {
     public static void main(String[] args) {
         int[] num_list = {1, 2, 3, 4, 5};
         int[] result = solution(num_list);

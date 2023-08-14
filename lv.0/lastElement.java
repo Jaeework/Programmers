@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * 마지막 두 원소
  */
-public class lastElement {
+public class LastElement {
     
     public static void main(String[] args) {
         int[] num_list = {2, 1, 6};

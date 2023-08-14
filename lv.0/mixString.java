@@ -1,10 +1,10 @@
 /**
  * 문자열 섞기
  */
-public class mixString {
+public class MixString {
 
     public static void main(String[] args) {
-        mixString ms = new mixString();
+        MixString ms = new MixString();
         String answer = ms.solution("aaa", "bbb");
 
         System.out.println(answer);
