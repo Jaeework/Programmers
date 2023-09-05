@@ -24,7 +24,6 @@ public class Test124 {
                 cnt++;
             }
         }
-        System.out.println("cnt : " + cnt);
         answer = new int[cnt];
 
         int idx = 0;
